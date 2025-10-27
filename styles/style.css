@@ -331,7 +331,5 @@ ol {
   outline: none;
 }
 
-/* это лишнее, получается, так как есть .content__card-link_current article 
-.content__card-link:active {
-  background-color: #545050;
+
 }
